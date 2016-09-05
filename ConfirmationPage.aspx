@@ -26,9 +26,10 @@
             <nav class="navbar">
                 <div class="navbar-mini">
                     <ul>
-                        <li><a href="https://github.com/magicparadigm/AdvancedFormsFieldsWorkflow">Source Code</a></li>
+                        <li><a href="https://github.com/magicparadigm/ExampleCode">Source Code</a></li>
                         <li><a href="https://www.docusign.com/developer-center">DocuSign DevCenter</a></li>
                         <li><a href="https://www.docusign.com/p/APIGuide/Content/Sending%20Group/Rules%20for%20CompositeTemplate%20Usage.htm">Field Transforms</a></li>
+                        <li><a href="http://sedemo1.cloudapp.net/advancedformfields/demos/DOLhelp.htm">DOL Help</a></li>
                     </ul>
                 </div>
                 <div class="navbar-header">
